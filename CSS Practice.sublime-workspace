@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cursive"
+			],
+			[
+				"tex",
+				"text-center"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n    <title>CSS Practice</title>\n    <!-- Link to your external CSS -->\n\n</head>\n<body>\n\n    <!-- Center -->\n    <h1>The Wonders of CSS!</h1>\n\n    <hr>\n\n    <h2>Fun With Text!</h2>\n\n    <!-- Change text color -->\n    <p>This text is red.</p>\n    <p>This text is blue.</p>\n    <p>This text is green.</p>\n\n    <!-- Change font-size -->\n    <p>This text is BIG!</p>\n    <p>This text is tiny...</p>\n\n    <!-- Center -->\n    <p>~~This text is centered~~</p>\n\n    <!-- Bold -->\n    <p>If we have something important to say, we can make it bold!</p>\n\n    <!-- Change font -->\n    <p>We can even change our font-family if we are feeling creative!</p>\n\n    <!-- Multiple attributes -->\n    <p>Try combining multiple attributes to make big, orange, bold text!</p>\n\n    <hr>\n\n    <!-- Classes -->\n    <p class=\"styledFont\">We can also apply the same style to multiple HTML elements.</p>\n    <p class=\"styledFont\">Each one of these lines is within a different &ltp&gt tag, yet they all have the same styling.</p>\n    <p class=\"styledFont\">That's because they are all a part of the same CSS class!</p>\n    <p class=\"styledFont\">CSS classes let us define a style once and let us then apply it to multiple elements!</p>\n    <p class=\"styledFont\">In your external CSS file, create a style for the class styledFont.</p>\n    <p class=\"styledFont\">Notice how every time you change the class styledFont, all of the text changes.</p>\n\n    <hr>\n\n    <p>Just as classes can be used to style multiple elements, id's are used to style single, unique elements. Give the following image a border by adding style attributes to your external CSS file. (Hint: Remember to include a border width, style, and color.)</p>\n\n    <!-- Border & id -->\n    <img id=\"styledImage\" alt=\"Picture of the CSS Icon\" src=\"http://www.crazyxhtml.com/blog/wp-content/uploads/2012/11/css3-markup.jpg\">\n\n    <hr>\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 0,
+			"file_write_time": 131605959226049565,
+			"settings":
+			{
+				"buffer_size": 1907,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "style.css",
+			"file_size": 0,
+			"file_write_time": 131605959948610967,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 882.0,
+		"last_filter": "package control install",
+		"selected_items":
+		[
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1053.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rsant/OneDrive/New folder/PREWORK_RS/Rutgers site 2.html",
+		"/C/Users/rsant/OneDrive/New folder/PREWORK_RS/Fan Page Rutgers.html",
+		"/C/Users/rsant/OneDrive/New folder/PREWORK_RS/Rutgers first site.html",
+		"/C/Users/rsant/Desktop/Broken_and_Working_Code/BrokenCode/logic.js",
+		"/C/Users/rsant/Desktop/Broken_and_Working_Code/BrokenCode/BooTheDog.html",
+		"/C/Users/rsant/Desktop/Broken_and_Working_Code/WorkingCode/style.css",
+		"/C/Users/rsant/Desktop/Broken_and_Working_Code/BrokenCode/style.css",
+		"/C/Users/rsant/Desktop/Broken_and_Working_Code.zip",
+		"/C/Users/rsant/OneDrive/New folder/PREWORK_RS/Broken_and_Working_Code.zip",
+		"/C/Program Files/Java/jdk1.8.0_131/lib/ct.sym",
+		"/C/Program Files/Java/jdk1.8.0_131/lib/ant-javafx.jar",
+		"/C/Users/rsant/Downloads/algs4.jar",
+		"/C/Users/rsant/.drjava",
+		"/C/Users/rsant/Downloads/eclipse-inst-win64.exe",
+		"/C/Users/rsant/algs4/checkstyle-6.9/commons-collections-3.2.1.jar",
+		"/C/Program Files/Java/jre1.8.0_121/bin/javacpl.exe",
+		"/C/Program Files/NetBeans 8.2/bin/netbeans64.exe",
+		"/C/Users/rsant/algs4/java/bin/java.exe",
+		"/C/Users/rsant/algs4/drjava.jar",
+		"/C/Users/rsant/algs4/DrJava.lnk",
+		"/C/Users/rsant/Desktop/Odin Project/Google Home Page Project/google.css",
+		"/C/Users/rsant/Desktop/Odin Project/Google Home Page Project/google-index.html",
+		"/C/Users/rsant/Desktop/Projects/git_test/README.md",
+		"/C/Users/rsant/Desktop/Projects/git_test/hello_world.txt",
+		"/C/Sites/railsbridge/test_app/config/routes.rb",
+		"/C/Sites/railsbridge/test_app/Gemfile",
+		"/C/Sites/railsbridge/test_app/.gitignore",
+		"/C/Sites/railsbridge/test_app/README.md",
+		"/C/Apps/WhiteHatBox/AppFile/129/Projects/Ch1_examp1.htm"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1907,
+								1907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CSS Practice.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
